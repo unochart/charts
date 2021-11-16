@@ -1,2 +1,2 @@
 # charts
-Helm charts based on a complete, configurable, mono-chart
+Helm charts based on a complete, secure, configurable, monochart
